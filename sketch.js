@@ -89,7 +89,7 @@ function mouseDragged(){
 
 function mouseReleased(){
     slingshot.fly();
-    gameState = "launched";
+  //  gameState = "launched";
 }
 
 function keyPressed(){
